@@ -1,2 +1,2 @@
 # BootcampHomeworkSQL 
-##CRUD with restuarant database
+## CRUD with restuarant database
