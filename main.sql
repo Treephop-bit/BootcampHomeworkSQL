@@ -345,7 +345,7 @@ GROUP BY order_id
 ;
 .print "    "
 .print "     "
-.print "**ex. search customer_id 23**"
+.print "**ex. search customer_id 24**"
 .print "       "
   
 SELECT *
@@ -366,4 +366,4 @@ FROM payment AS p
   ON p.customer_id = ct.customer_id
 GROUP BY order_id
 )
-WHERE customer_id = 23; --write you filter query here
+WHERE customer_id = 24; --write you filter query here
